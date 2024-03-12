@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    text-align: center;
+    padding: 1rem;
+    color: rgb(71, 65, 57);
+}
+.formSection {
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    input {
+        border: 1px solid black;
+    }
+}
+
+.footer {
+    background-color: rgba(228, 233, 228, 0.933);
+    color: rgb(109, 81, 81);
+    justify-content: center;
+    position: absolute;
+    padding: 0.5rem;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    font-style: oblique;
+}
