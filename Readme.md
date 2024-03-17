@@ -1,7 +1,7 @@
 ## Countries Information App Project
 
 # Description
-Project aims to create a real checkout page of e-commerce website.
+Project aims to create a real countries information page of e-commerce website.
 
 ## Objective
 At the end of the project, following topics are to be covered;
